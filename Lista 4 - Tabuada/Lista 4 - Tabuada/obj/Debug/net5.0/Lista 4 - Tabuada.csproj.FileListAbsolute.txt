@@ -1,0 +1,16 @@
+C:\Users\usuário\Desktop\Tabuada\Lista 4 - Tabuada\Lista 4 - Tabuada\obj\Debug\net5.0\Lista 4 - Tabuada.csproj.AssemblyReference.cache
+C:\Users\usuário\Desktop\Tabuada\Lista 4 - Tabuada\Lista 4 - Tabuada\obj\Debug\net5.0\Lista 4 - Tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuário\Desktop\Tabuada\Lista 4 - Tabuada\Lista 4 - Tabuada\obj\Debug\net5.0\Lista 4 - Tabuada.AssemblyInfoInputs.cache
+C:\Users\usuário\Desktop\Tabuada\Lista 4 - Tabuada\Lista 4 - Tabuada\obj\Debug\net5.0\Lista 4 - Tabuada.AssemblyInfo.cs
+C:\Users\usuário\Desktop\Tabuada\Lista 4 - Tabuada\Lista 4 - Tabuada\obj\Debug\net5.0\Lista 4 - Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\usuário\Desktop\Tabuada\Lista 4 - Tabuada\Lista 4 - Tabuada\bin\Debug\net5.0\Lista 4 - Tabuada.exe
+C:\Users\usuário\Desktop\Tabuada\Lista 4 - Tabuada\Lista 4 - Tabuada\bin\Debug\net5.0\Lista 4 - Tabuada.deps.json
+C:\Users\usuário\Desktop\Tabuada\Lista 4 - Tabuada\Lista 4 - Tabuada\bin\Debug\net5.0\Lista 4 - Tabuada.runtimeconfig.json
+C:\Users\usuário\Desktop\Tabuada\Lista 4 - Tabuada\Lista 4 - Tabuada\bin\Debug\net5.0\Lista 4 - Tabuada.runtimeconfig.dev.json
+C:\Users\usuário\Desktop\Tabuada\Lista 4 - Tabuada\Lista 4 - Tabuada\bin\Debug\net5.0\Lista 4 - Tabuada.dll
+C:\Users\usuário\Desktop\Tabuada\Lista 4 - Tabuada\Lista 4 - Tabuada\bin\Debug\net5.0\Lista 4 - Tabuada.pdb
+C:\Users\usuário\Desktop\Tabuada\Lista 4 - Tabuada\Lista 4 - Tabuada\obj\Debug\net5.0\Lista 4 - Tabuada.dll
+C:\Users\usuário\Desktop\Tabuada\Lista 4 - Tabuada\Lista 4 - Tabuada\obj\Debug\net5.0\refint\Lista 4 - Tabuada.dll
+C:\Users\usuário\Desktop\Tabuada\Lista 4 - Tabuada\Lista 4 - Tabuada\obj\Debug\net5.0\Lista 4 - Tabuada.pdb
+C:\Users\usuário\Desktop\Tabuada\Lista 4 - Tabuada\Lista 4 - Tabuada\obj\Debug\net5.0\Lista 4 - Tabuada.genruntimeconfig.cache
+C:\Users\usuário\Desktop\Tabuada\Lista 4 - Tabuada\Lista 4 - Tabuada\obj\Debug\net5.0\ref\Lista 4 - Tabuada.dll

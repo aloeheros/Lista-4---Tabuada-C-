@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Lista 4 - Tabuada/1.0.0": {
+        "runtime": {
+          "Lista 4 - Tabuada.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lista 4 - Tabuada/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
